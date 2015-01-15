@@ -1,0 +1,11 @@
+/* line 1, ../scss/partials/_test.scss */
+.test {
+  margin: 1px;
+}
+
+/* line 5, ../scss/app-ie.scss */
+.test {
+  margin: 0;
+}
+
+/*# sourceMappingURL=app-ie.css.map */
